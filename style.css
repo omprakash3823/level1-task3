@@ -9,7 +9,7 @@ body{
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
-    background-image: url("/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2NlbHNpdXMtY29udmVydC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==.jpg");
+    background-image: url("img/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2NlbHNpdXMtY29udmVydC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==.jpg");
 
     background-size: cover;
 }
